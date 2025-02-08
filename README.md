@@ -16,23 +16,18 @@ Here are some ideas to get you started:
 -->
 
 # 📊 GitHub Stats:
-
-<!--
-![](https://github-readme-stats.vercel.app/api?username=elRapha04&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=true)<br/>
--->
-
-<div style="display:flex; align-items:center; width:100dvw; justify-items:space-between;">
+<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
 
   <a href="https://github.com/elRapha04">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=elRapha04&theme=ambient_gradient&hide_border=false"/>
   </a>
-
 
   <a href="https://github.com/elRapha04">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elRapha04&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
   </a>
 
 </div>
+
 
 ---
 
