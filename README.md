@@ -16,17 +16,9 @@ Here are some ideas to get you started:
 -->
 
 # 📊 GitHub Stats:
-<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
-
-  <a href="https://github.com/elRapha04">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=elRapha04&theme=ambient_gradient&hide_border=false"/>
-  </a>
-
-  <a href="https://github.com/elRapha04">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elRapha04&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
-  </a>
-
-</div>
+| Streak Stats | Top Languages |
+| ------------ | ------------- |
+| [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=elRapha04&theme=ambient_gradient&hide_border=false)](https://github.com/elRapha04) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elRapha04&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=true&layout=compact)](https://github.com/elRapha04) |
 
 
 ---
