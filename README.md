@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # 📊 GitHub Stats:
 | Streak Stats | Top Languages |
 | ------------ | ------------- |
-| [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=elRapha04&theme=ambient_gradient&hide_border=false)](https://github.com/elRapha04) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elRapha04&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)]((https://github.com/elRapha04)) |
+| [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=elRapha04&theme=ambient_gradient&hide_border=false)](https://github.com/elRapha04) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elRapha04&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/elRapha04) |
 
 
 ---
